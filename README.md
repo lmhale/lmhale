@@ -1,4 +1,4 @@
-### 💠 Well, Hello there! I'm Lauren 💠 🌹 
+###  Hello World! I'm Lauren 🌹 
 
 <!--
 **lmhale/lmhale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
