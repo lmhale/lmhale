@@ -15,6 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a chrome extension called [ClipSrc](https://github.com/lmhale/ClipSrc)
-- 🌱 I’m currently learning coding patterns for Algorithm questions
-- 👯 I’m looking to collaborate on a project using AR or VR!
